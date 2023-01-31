@@ -26,7 +26,7 @@ for (const file of commandFiles) {
 // Event on startup
 client.once(Events.ClientReady, c => {
     console.log("Team 8 bot is now online!");
-    console.log("Logged in as ${c.user.tag}");
+    console.log("Logged in as " + c.user.tag);
 });
 
 // Run the desired command
