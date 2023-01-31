@@ -13,4 +13,4 @@ To run this bot, you must create a config.json file (in the same directory as in
 }
 ```
 
-Replace the values with token, clientId(ID of the bot), and guildId(ID of the server)
+Replace the values with your token, clientId(ID of the bot), and guildId(ID of the server)
