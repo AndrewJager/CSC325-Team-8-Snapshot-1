@@ -129,3 +129,4 @@ dist
 
 # secret stuff
 config.json
+.env
